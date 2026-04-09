@@ -7,7 +7,7 @@ module "dev-infra" {
     ami = "ami-0d64bb532e0502c46"
     volume_size = 10
 }
-
+ 
 # stg-infra
 module "stg-infra" {
     source = "./infra"
