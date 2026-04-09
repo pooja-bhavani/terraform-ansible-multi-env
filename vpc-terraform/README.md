@@ -8,7 +8,7 @@ This repository provides a Terraform configuration to set up infrastructure for 
 - **Subnets**: Multiple subnets for efficient networking.
 - **Internet Gateway**: Allows internet access for resources in public subnets.
 - **Route Tables**: Configured for proper routing of traffic.
-- **EC2 Instance**: Deploys an instance within the created VPC.
+- **EC2 Instance**: Deploys an instance within the created VPC. 
 
 ## Prerequisites
 
