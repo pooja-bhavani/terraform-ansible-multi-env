@@ -1,4 +1,4 @@
-# DevOps Project: Multi-Environment Infrastructure with Terraform and Ansible
+# DevOps Project: Multi-Environment Infrastructure with Terraform and Ansible 
 
 ## Introduction
 
